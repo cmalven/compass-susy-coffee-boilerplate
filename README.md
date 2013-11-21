@@ -1,6 +1,6 @@
-# FilzFelt
+# Project Title
 
-Supplier of 100% wool design and craft felt imported from Germany. Felt sold by the yard and handmade products including coasters, placemats, floor mats and pillows.
+A brief project description to help people understand what this is for.
 
 ## Installing:
 

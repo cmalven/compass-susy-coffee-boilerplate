@@ -1,0 +1,12 @@
+{
+  "name": "filzfelt",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.9.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
